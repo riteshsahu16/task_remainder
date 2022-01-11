@@ -1,3 +1,10 @@
+"""
+This project is created by Ritesh Kumar Sahu
+If you like it.. don't forget to star it.
+github.com/riteshsahu16/task_remainder
+"""
+
+
 from collections import deque
 from datetime import date, time, datetime
 from typing import get_origin
